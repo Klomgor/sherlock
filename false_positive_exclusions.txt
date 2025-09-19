@@ -1,5 +1,6 @@
 APClips
-Coders Rank
+CGTrader
+CyberDefenders
 Freelance.habr
 GNOME VCS
 Giphy
@@ -19,7 +20,7 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
+YouNow
 kaskus
-opennet
 svidbook
 threads
