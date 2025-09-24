@@ -1,28 +1,23 @@
 APClips
 Coders Rank
-Flipboard
 GNOME VCS
 Giphy
-GitHub
 HackerEarth
 Heavy-R
-LiveJournal
 LushStories
 Mydramalist
 PepperIT
 PocketStars
-Pornhub
 Reddit
 Roblox
 RocketTube
-RuneScape
+SlideShare
 Splice
 Spotify
+Topcoder
 Weblate
 YandexMusic
 kaskus
-nnRU
 opennet
 svidbook
 threads
-xHamster
