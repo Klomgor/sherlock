@@ -1,10 +1,10 @@
 APClips
-Coders Rank
 GNOME VCS
 Giphy
 HackerEarth
+HackerRank
 Heavy-R
-LushStories
+LessWrong
 Mydramalist
 PepperIT
 PocketStars
@@ -21,3 +21,4 @@ kaskus
 opennet
 svidbook
 threads
+xHamster
