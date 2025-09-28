@@ -1,4 +1,5 @@
 APClips
+Coders Rank
 GNOME VCS
 Giphy
 HackerEarth
@@ -11,10 +12,10 @@ PocketStars
 Reddit
 Roblox
 RocketTube
-Slack
 SlideShare
 Splice
 Spotify
+Strava
 Topcoder
 Weblate
 YandexMusic
