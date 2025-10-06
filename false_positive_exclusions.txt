@@ -1,7 +1,7 @@
 APClips
-BoardGameGeek
 Coders Rank
 DeviantArt
+Freelancer
 GNOME VCS
 Giphy
 HackerEarth
@@ -17,5 +17,5 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
-opennet
+nnRU
 svidbook
