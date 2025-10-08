@@ -1,9 +1,12 @@
 APClips
-DeviantArt
+Carbonmade
+Coders Rank
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
+LessWrong
+LushStories
 PepperIT
 PocketStars
 Reddit
@@ -14,5 +17,6 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
+opennet
 svidbook
 xHamster
