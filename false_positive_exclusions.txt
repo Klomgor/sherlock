@@ -1,18 +1,18 @@
 APClips
-Blogger
 Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
-GitHub
 HackerEarth
+HackerNews
 Heavy-R
+Itch.io
+LessWrong
 LushStories
 PepperIT
 PocketStars
 Reddit
 RocketTube
-Snapchat
 Splice
 Spotify
 Topcoder
@@ -20,3 +20,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
