@@ -1,12 +1,13 @@
 APClips
 Coders Rank
-DeviantArt
+Freelancer
 GNOME VCS
 Giphy
 LushStories
 PocketStars
 Reddit
 RocketTube
+SpeakerDeck
 Splice
 Spotify
 Weblate
