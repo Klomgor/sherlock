@@ -1,19 +1,15 @@
 APClips
-BoardGameGeek
-DeviantArt
+Coders Rank
 GNOME VCS
 Giphy
+Gravatar
 LushStories
 PocketStars
 Reddit
 RocketTube
-SpeakerDeck
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
 opennet
 svidbook
-threads
-xHamster
