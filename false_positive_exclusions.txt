@@ -3,9 +3,9 @@ Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
+LiveJournal
 LushStories
 PocketStars
-Rajce.net
 Reddit
 RocketTube
 Splice
@@ -13,5 +13,4 @@ Spotify
 Trovo
 Weblate
 YandexMusic
-opennet
 svidbook
