@@ -1,16 +1,16 @@
 APClips
+Audiojungle
 Coders Rank
 GNOME VCS
 Giphy
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
-RuneScape
 Splice
 Spotify
 Weblate
 YandexMusic
-phpRU
+opennet
 svidbook
+xHamster
