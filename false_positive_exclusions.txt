@@ -1,13 +1,11 @@
 APClips
 Archive.org
-Carbonmade
-Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
-LushStories
-Minecraft
+GitHub
 PocketStars
+Rajce.net
 Reddit
 RocketTube
 Splice
@@ -15,7 +13,5 @@ Spotify
 Trovo
 Weblate
 YandexMusic
-furaffinity
 opennet
 svidbook
-xHamster
