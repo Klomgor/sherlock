@@ -5,14 +5,17 @@ DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
-Slack
 Splice
 Spotify
 Trovo
+Venmo
 Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
