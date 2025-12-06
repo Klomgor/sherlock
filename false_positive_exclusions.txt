@@ -1,32 +1,17 @@
 APClips
-All Things Worn
 Archive.org
-Chess
 Code Snippet Wiki
 Coders Rank
-Dealabs
-DeviantArt
-DigitalSpy
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitLab
-Gumroad
-HackerOne
 Hubski
-LibraryThing
 LushStories
-NICommunityForum
-NitroType
-Plurk
 PocketStars
 Reddit
 RocketTube
-RuneScape
-Slashdot
+Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
-minds
 svidbook
