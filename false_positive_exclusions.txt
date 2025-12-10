@@ -1,14 +1,14 @@
 APClips
 Archive.org
-Audiojungle
+BoardGameGeek
 Code Snippet Wiki
 DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+Itch.io
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -18,4 +18,5 @@ Spotify
 Trovo
 Weblate
 YandexMusic
+opennet
 svidbook
