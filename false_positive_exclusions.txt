@@ -1,13 +1,14 @@
 APClips
 Archive.org
+Audiojungle
 Code Snippet Wiki
+Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
 Hubski
+LiveJournal
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
