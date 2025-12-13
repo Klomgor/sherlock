@@ -1,19 +1,22 @@
 APClips
 Archive.org
-Audiojungle
+CGTrader
 Code Snippet Wiki
+DeviantArt
 Fandom
-GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LiveJournal
+Itch.io
 LushStories
 PocketStars
 Reddit
 RocketTube
+Slack
 Splice
 Spotify
+Trovo
+Vero
 Weblate
 YandexMusic
 opennet
