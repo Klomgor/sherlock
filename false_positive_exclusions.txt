@@ -1,19 +1,18 @@
 APClips
 Archive.org
-BoardGameGeek
 Code Snippet Wiki
 DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hubski
 LushStories
-OurDJTalk
+Minecraft
 PocketStars
 Reddit
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Splice
@@ -24,3 +23,4 @@ YandexMusic
 opennet
 phpRU
 svidbook
+xHamster
