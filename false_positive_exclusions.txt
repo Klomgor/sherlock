@@ -1,12 +1,10 @@
 APClips
-Archive.org
 Code Snippet Wiki
 DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
 Hubski
 LushStories
 Minecraft
@@ -23,4 +21,3 @@ YandexMusic
 opennet
 phpRU
 svidbook
-xHamster
