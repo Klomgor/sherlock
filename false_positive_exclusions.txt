@@ -1,8 +1,5 @@
 APClips
 Archive.org
-Audiojungle
-Blogger
-Carbonmade
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -12,6 +9,7 @@ Giphy
 Hubski
 LushStories
 PocketStars
+Realmeye
 Reddit
 RocketTube
 Scribd
