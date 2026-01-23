@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Audiojungle
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -8,11 +9,13 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
+Minecraft
 PocketStars
 Realmeye
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
