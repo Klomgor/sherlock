@@ -1,7 +1,5 @@
 APClips
 Archive.org
-BitBucket
-Carbonmade
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -19,11 +17,11 @@ SlideShare
 Smule
 Splice
 Spotify
-Trello
-Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
+xHamster
