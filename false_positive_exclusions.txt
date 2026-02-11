@@ -1,7 +1,6 @@
 APClips
 Archive.org
 Code Snippet Wiki
-DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -24,4 +23,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
