@@ -1,14 +1,13 @@
 APClips
 Archive.org
-CGTrader
 Code Snippet Wiki
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+LessWrong
 LushStories
 PocketStars
-Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -24,3 +23,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
