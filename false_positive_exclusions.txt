@@ -1,5 +1,4 @@
 APClips
-Anilist
 Archive.org
 Code Snippet Wiki
 DeviantArt
@@ -16,16 +15,16 @@ Realmeye
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
 Spotify
-Tiendanube
 Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
+xHamster
