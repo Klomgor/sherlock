@@ -1,10 +1,8 @@
 APClips
 Archive.org
 Codolio
-GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Hubski
 LessWrong
@@ -22,8 +20,10 @@ Splice
 Spotify
 TryHackMe
 Weblate
+Wordnik
 YandexMusic
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
