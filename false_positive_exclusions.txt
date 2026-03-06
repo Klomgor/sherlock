@@ -8,10 +8,9 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
-Minecraft
 Patched
 PocketStars
+Rarible
 Realmeye
 Reddit
 RocketTube
@@ -21,6 +20,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Strava
 Trovo
 TryHackMe
 Weblate
