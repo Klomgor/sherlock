@@ -1,13 +1,13 @@
 APClips
 Archive.org
 Codolio
-Cracked Forum
 DeviantArt
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
+LushStories
 Minecraft
 Patched
 PocketStars
@@ -29,3 +29,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
