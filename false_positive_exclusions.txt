@@ -1,6 +1,7 @@
 7Cups
 APClips
 Archive.org
+Blogger
 Codolio
 DeviantArt
 Discord.bio
@@ -9,7 +10,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
+LiveJournal
 Patched
 PocketStars
 Rarible
@@ -25,7 +26,6 @@ Spotify
 Trovo
 TryHackMe
 Weblate
-Wordnik
 YandexMusic
 interpals
 mercadolivre
