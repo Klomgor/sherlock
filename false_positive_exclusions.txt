@@ -4,16 +4,14 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
-Carbonmade
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
-Motherless
 Patched
 Pornhub
 Rarible
@@ -24,9 +22,9 @@ Scribd
 Shelf
 SlideShare
 Smule
-Snapchat
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
@@ -36,6 +34,7 @@ dailykos
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
