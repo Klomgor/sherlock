@@ -1,9 +1,12 @@
 7Cups
 APClips
 Airliners
+AllMyLinks
 Apple Discussions
 Archive.org
 Bandcamp
+CGTrader
+Carbonmade
 Codolio
 DeviantArt
 Discord.bio
@@ -12,6 +15,7 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+LessWrong
 Minecraft
 Patched
 Pornhub
@@ -21,6 +25,7 @@ Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
