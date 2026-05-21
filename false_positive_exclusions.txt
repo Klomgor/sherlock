@@ -1,14 +1,9 @@
 7Cups
-APClips
 Airliners
-AllMyLinks
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
-Carbonmade
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -18,19 +13,16 @@ Hubski
 LessWrong
 Minecraft
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
@@ -43,4 +35,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
