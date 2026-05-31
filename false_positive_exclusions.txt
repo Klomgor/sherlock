@@ -4,7 +4,6 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
-BoardGameGeek
 Codolio
 DeviantArt
 Discord.bio
@@ -13,6 +12,7 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
 Minecraft
 Patched
@@ -22,6 +22,7 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
@@ -41,3 +42,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
