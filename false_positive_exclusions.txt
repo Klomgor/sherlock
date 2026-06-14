@@ -1,10 +1,11 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
+Archive.org
 Bandcamp
 Codolio
+Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -13,7 +14,7 @@ HackenProof (Hackers)
 Hashnode
 Hubski
 LessWrong
-LiveJournal
+OurDJTalk
 Patched
 Rarible
 Realmeye
@@ -38,4 +39,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
