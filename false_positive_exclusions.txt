@@ -3,7 +3,9 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+BabyRu
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -19,6 +21,7 @@ Instapaper
 Minecraft
 Odysee
 PCGamer
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -30,6 +33,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+TikTok
 Trovo
 TryHackMe
 Velomania
