@@ -6,7 +6,6 @@ Archive.org
 Bandcamp
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -18,9 +17,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+LiveJournal
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
