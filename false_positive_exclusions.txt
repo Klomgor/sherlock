@@ -12,6 +12,7 @@ ChaturBate
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -20,6 +21,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+ObservableHQ
 Odysee
 PCGamer
 Pornhub
@@ -34,7 +36,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -50,3 +51,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
