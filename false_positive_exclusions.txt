@@ -5,14 +5,12 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -28,7 +26,6 @@ Pornhub
 Rarible
 Realmeye
 Reddit
-Replit.com
 ReverbNation
 RocketTube
 Scribd
@@ -51,4 +48,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
