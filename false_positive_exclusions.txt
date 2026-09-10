@@ -16,10 +16,10 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LiveJournal
 Minecraft
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
 Rarible
 Realmeye
@@ -30,6 +30,8 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
+Trakt
 Trovo
 TryHackMe
 Velomania
