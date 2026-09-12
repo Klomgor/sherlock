@@ -1,12 +1,13 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-BoardGameGeek
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 ColourLovers
 DeviantArt
@@ -20,17 +21,19 @@ Hubski
 Instapaper
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
 ReverbNation
+RocketTube
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
