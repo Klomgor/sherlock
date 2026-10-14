@@ -1,10 +1,12 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
 Blogger
+CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -30,6 +32,7 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
@@ -51,3 +54,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
