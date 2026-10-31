@@ -3,6 +3,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Carbonmade
 Championat
 Chatujme.cz
 Codolio
@@ -36,9 +37,7 @@ fixya
 hunting
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
