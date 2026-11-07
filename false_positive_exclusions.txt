@@ -13,8 +13,8 @@ GeeksforGeeks
 HackerNews
 Hashnode
 Hubski
-Image Fap
 Instapaper
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -37,6 +37,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
