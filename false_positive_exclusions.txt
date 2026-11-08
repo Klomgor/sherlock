@@ -28,7 +28,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
+TnAFlix
 TryHackMe
 Velomania
 Vero
@@ -43,3 +43,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
