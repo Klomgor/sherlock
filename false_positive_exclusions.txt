@@ -14,7 +14,7 @@ Hashnode
 Hubski
 Instapaper
 Linktree
-Minecraft
+LiveJournal
 ObservableHQ
 Odysee
 PCGamer
@@ -28,10 +28,10 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
